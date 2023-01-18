@@ -1,1 +1,1 @@
-rootProject.name = "flightrightCase"
+rootProject.name = "flightright-case"
