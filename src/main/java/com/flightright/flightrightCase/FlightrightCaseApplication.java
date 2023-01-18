@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class FlightrightCaseApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(FlightrightCaseApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(FlightrightCaseApplication.class, args);
+    }
 }
